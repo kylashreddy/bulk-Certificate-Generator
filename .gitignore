@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.env
+/certgen.db
+/certgen.db-*
+/storage/
+build/
+dist/

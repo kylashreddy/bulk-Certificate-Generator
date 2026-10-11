@@ -1,0 +1,20 @@
+{
+  "certificate": {
+    "title": "Advanced Data Engineering",
+    "achievement_line": "for successfully completing the twelve-week professional programme",
+    "certificate_kind": "COMPLETION",
+    "issued_on": "2026-10-11",
+    "issuer_name": "Northwind Academy",
+    "signatory_name": "Dr. Amara Okafor",
+    "signatory_title": "Director of Programmes"
+  },
+  "recipients": [
+    {"name": "Ada Lovelace", "email": "ada@example.com"},
+    {"name": "  José   Müller ", "email": "jose@example.com"},
+    {"name": "Zoë Ångström-Núñez Łukasiewicz", "email": "zoe@example.com"},
+    {"name": "Maximilian Alexander Konstantin von Hohenzollern-Sigmaringen-Wittelsbach", "email": "max@example.com"},
+    {"name": "", "email": "nobody@example.com"},
+    {"name": "Grace Hopper", "email": "not-an-email"},
+    {"name": "Ada Again", "email": "ADA@example.com"}
+  ]
+}
